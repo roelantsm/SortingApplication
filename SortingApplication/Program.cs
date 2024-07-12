@@ -12,6 +12,8 @@ namespace SortingApplication
         {
             SortingAlgorithmTester tester = new SortingAlgorithmTester();
             tester.Test();
+
+            Console.WriteLine("Testing ended");
         }
     }
 }
